@@ -11,14 +11,56 @@
       "query": "path:Silver/Tech/Tiers",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16777215
       }
     },
     {
       "query": "path:Silver/Magic/Tiers",
       "color": {
         "a": 1,
-        "rgb": 5417696
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Silver/Tech/Stations/Furnace",
+      "color": {
+        "a": 1,
+        "rgb": 7762543
+      }
+    },
+    {
+      "query": "path:Silver/Tech/Stations/Crafting",
+      "color": {
+        "a": 1,
+        "rgb": 7356964
+      }
+    },
+    {
+      "query": "path:\"Silver/Tech/Power Generation\"",
+      "color": {
+        "a": 1,
+        "rgb": 16318721
+      }
+    },
+    {
+      "query": "path:Silver/Tech/Materials",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
+    },
+    {
+      "query": "path:Silver/Tech/Components",
+      "color": {
+        "a": 1,
+        "rgb": 10309119
+      }
+    },
+    {
+      "query": "path:Silver/General",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
@@ -32,6 +74,6 @@
   "repelStrength": 14.017094017094,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2588386562181657,
-  "close": true
+  "scale": 0.5087618855792664,
+  "close": false
 }

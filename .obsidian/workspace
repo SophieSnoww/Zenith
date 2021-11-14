@@ -84,15 +84,15 @@
   },
   "active": "6df89717dc60441a",
   "lastOpenFiles": [
-    "Silver/Tech/Components/Motherboard.md",
-    "Silver/Tech/Components/Circut.md",
     "Silver/Tech/Components/Carbon Nanotube Printer Head.md",
+    "README.md",
     "Silver/Tech/Tiers/TECH 01 - Iron.md",
-    "Silver/Tech/Tiers/TECH 02 - Steel.md",
-    "Silver/Tech/Tiers/TECH 03 - Netherite.md",
-    "Silver/Tech/Tiers/TECH 04 - Titanium.md",
     "Silver/Tech/Tiers/TECH 05 - Nether Steel.md",
+    "Silver/Tech/Tiers/TECH 04 - Titanium.md",
     "Silver/Tech/Tiers/TECH 06 - Carbon Nanotube.md",
-    "Silver/Tech/Tiers/TECH 07 - Sterling Steel.md"
+    "Silver/Tech/Tiers/TECH 03 - Netherite.md",
+    "Silver/Tech/Tiers/TECH 07 - Sterling Steel.md",
+    "Silver/Tech/Tiers/TECH 02 - Steel.md",
+    "Silver/Tech/Components/Motherboard.md"
   ]
 }
