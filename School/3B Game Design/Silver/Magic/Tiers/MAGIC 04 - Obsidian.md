@@ -1,2 +1,2 @@
 # Obsidian
-[[MAGIC 06 - Rainbowfire Obsidian|Rainbowfire Obsidian]]
+[[MAGIC 05 - Malachite|Malachite]]
