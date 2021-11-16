@@ -3,11 +3,11 @@
 ## Recipe
 [[Redstone]] + [[Copper]] + [[Gold]] at [[Crafting Table]]
 
-| - | - | - |
-| - | - | - |
-| [[Copper\|C]] | [[Redstone\|R]] |  |
-| [[Redstone\|R]] | [[Gold\|G]] | [[Redstone\|R]] |
-|  | [[Redstone\|R]] | [[Copper\|C]] |
+| -               | -               | -               |
+| --------------- | --------------- | --------------- |
+| [[Copper\|C]]   | [[Redstone\|R]] |                 |
+| [[Redstone\|R]] | [[Gold\|G]]     | [[Redstone\|R]] |
+|                 | [[Redstone\|R]] | [[Copper\|C]]   |
 
 ---
 ## Material In
