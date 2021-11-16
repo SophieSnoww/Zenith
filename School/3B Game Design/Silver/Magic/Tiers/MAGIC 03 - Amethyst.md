@@ -1,2 +1,2 @@
 # Amethyst
-[[MAGIC 04 - Malachite|Malachite]]
+[[MAGIC 05 - Malachite|Malachite]]
