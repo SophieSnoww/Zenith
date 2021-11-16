@@ -1,6 +1,6 @@
 # Iron (Tech)
 ---
-## Material in
+## Material In
 - [[Alloy Furnace]]
 - [[TECH 02 - Steel|Steel]]
 - [[Electronics Bench]]
