@@ -3,11 +3,11 @@
 ## Recipe
 [[Printer Head]] + [[Heating Plate]] + [[Computer Chip]] at [[Electronics Bench]]
 
-| - | - | - |
-| - | - | - |
-|  | [[Computer Chip\|C]] |  |
-|  | [[Printer Head\|H]] |  |
-|  | [[Heating Plate\|P]] |  |
+| -   | -                    | -   | 
+| --- | -------------------- | --- |
+|     | [[Computer Chip\|C]] |     |
+|     | [[Printer Head\|H]]  |     |
+|     | [[Heating Plate\|P]] |     |
 
 ---
 ## Used to Make

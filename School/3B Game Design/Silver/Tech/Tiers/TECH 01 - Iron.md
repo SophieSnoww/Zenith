@@ -1,14 +1,8 @@
 # Iron (Tech)
 ---
-## Stations
+## Material in
 - [[Alloy Furnace]]
+- [[TECH 02 - Steel|Steel]]
 - [[Electronics Bench]]
 - [[Electric Furnace]]
-- [[Generator]]
-
----
-## Material in
-- [[TECH 02 - Steel|Steel]]
-- [[Electric Furnace]]
-- [[Alloy Furnace]]
 - [[Generator]]
