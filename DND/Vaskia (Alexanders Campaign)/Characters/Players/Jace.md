@@ -1,9 +1,8 @@
 # Jace Strix
 
----
-
-22
-Divination wizard
+**Age:** 22
+**Class:** Divination wizard
+**Likes:** Botany, learning
 Going to Tefni college (senior)
 Likes plant stuff
 Really good friends with mme. Dana (Danista)
