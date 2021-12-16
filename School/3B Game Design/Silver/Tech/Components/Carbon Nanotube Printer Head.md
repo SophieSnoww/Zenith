@@ -6,3 +6,5 @@
 ---
 ## Material In
 - [[Omniprinter]]
+
+#tech #component #carbon_nanotube 

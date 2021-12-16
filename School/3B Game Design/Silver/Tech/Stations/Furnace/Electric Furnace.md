@@ -13,3 +13,5 @@
 ## Material In
 - [[Alloy Furnace]]
 - [[Industrial Furnace]]
+
+#tech #station #furnace #iron

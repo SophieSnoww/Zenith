@@ -11,3 +11,5 @@
 - [[Plasma Furnace]]
 - [[Quantum Processor]]
 - [[Thorium Reactor]]
+
+#tech #component #netherite 

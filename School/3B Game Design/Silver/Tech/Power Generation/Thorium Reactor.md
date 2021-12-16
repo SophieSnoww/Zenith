@@ -6,3 +6,5 @@
 ---
 ## Next Best
 [[Thorium Reactor]]
+
+#tech #power #sterling_steel 

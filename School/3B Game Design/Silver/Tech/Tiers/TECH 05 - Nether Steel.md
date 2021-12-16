@@ -12,3 +12,5 @@
 - [[Plasma Furnace]]
 - [[Nether Steel Printer Head]]
 - [[Nether Steel Heating Plate]]
+
+#tech #tier #nether_steel

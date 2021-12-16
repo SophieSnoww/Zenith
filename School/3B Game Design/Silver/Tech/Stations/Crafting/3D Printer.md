@@ -14,3 +14,5 @@
 - [[Motherboard]]
 - [[Geothermal Generator]]
 - [[Assembler]]
+
+#tech #station #crafting #netherite 

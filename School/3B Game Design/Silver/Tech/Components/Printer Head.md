@@ -12,3 +12,5 @@
 ---
 ## Material In
 - [[3D Printer]]
+
+#tech #component #netherite 

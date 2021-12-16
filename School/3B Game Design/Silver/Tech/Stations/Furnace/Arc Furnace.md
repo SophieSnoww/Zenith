@@ -6,3 +6,5 @@
 ---
 ## Used to Make
 - [[TECH 05 - Nether Steel|Nether Steel]]
+
+#tech #station #furnace #netherite 

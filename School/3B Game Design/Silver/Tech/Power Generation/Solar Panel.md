@@ -12,3 +12,5 @@
 ---
 ## Next Best
 [[Geothermal Generator]]
+
+#tech #power #steel

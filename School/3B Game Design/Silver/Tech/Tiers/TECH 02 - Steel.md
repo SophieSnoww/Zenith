@@ -10,3 +10,5 @@
 ---
 ## Material In
 - [[Industrial Furnace]]
+
+#tech #tier #steel

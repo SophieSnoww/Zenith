@@ -6,3 +6,5 @@
 ---
 ## Next Best
 [[Nuclear Reactor]]
+
+#tech #power #netherite 

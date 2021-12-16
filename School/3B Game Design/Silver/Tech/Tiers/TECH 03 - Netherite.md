@@ -13,3 +13,5 @@
 - [[Heating Plate]]
 - [[Printer Head]]
 - [[TECH 05 - Nether Steel|Nether Steel]]
+
+#tech #tier #netherite

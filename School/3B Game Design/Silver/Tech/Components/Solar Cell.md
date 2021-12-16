@@ -12,3 +12,5 @@
 ---
 ## Material In
 - [[Solar Panel]]
+
+#tech #component #steel 

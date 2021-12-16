@@ -13,3 +13,5 @@
 ## Used to Make
 - [[TECH 02 - Steel|Steel]]
 - [[TECH 03 - Netherite|Netherite]]
+
+#tech #station #furnace #iron

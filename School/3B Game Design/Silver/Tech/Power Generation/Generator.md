@@ -12,3 +12,5 @@
 ---
 ## Next Best
 [[Solar Panel]]
+
+#tech #power #iron

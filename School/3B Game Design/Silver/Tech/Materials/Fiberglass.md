@@ -8,3 +8,5 @@
 - [[Arc Furnace]]
 - [[Heating Plate]]
 - [[Solar Cell]]
+
+#tech #material

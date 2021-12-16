@@ -7,3 +7,5 @@
 ## Used to Make
 - [[TECH 06 - Carbon Nanotube|Carbon Nanotube]]
 - [[TECH 07 - Sterling Steel|Sterling Steel]]
+
+#tech #station #furnace #nether_steel 

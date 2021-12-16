@@ -16,3 +16,5 @@
 - [[Motherboard]]
 - [[Geothermal Generator]]
 - [[Nuclear Reactor]]
+
+#tech #component #steel

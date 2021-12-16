@@ -18,3 +18,5 @@
 - [[Industrial Furnace]]
 - [[Solar Panel]]
 - [[Printer Head]]
+
+#tech #component #iron 
