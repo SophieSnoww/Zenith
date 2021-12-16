@@ -15,4 +15,7 @@
 - [[Silicon]]
 - [[TECH 04 - Titanium|Titanium]]
 
+## Next Best
+[[Arc Furnace]]
+
 #tech #station #furnace #steel

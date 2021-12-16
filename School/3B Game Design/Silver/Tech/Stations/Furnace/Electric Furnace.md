@@ -14,4 +14,7 @@
 - [[Alloy Furnace]]
 - [[Industrial Furnace]]
 
+## Next Best
+[[Industrial Furnace]]
+
 #tech #station #furnace #iron

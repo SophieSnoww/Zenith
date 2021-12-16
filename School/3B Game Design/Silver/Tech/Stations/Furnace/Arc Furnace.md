@@ -7,4 +7,7 @@
 ## Used to Make
 - [[TECH 05 - Nether Steel|Nether Steel]]
 
+## Next Best
+[[Plasma Furnace]]
+
 #tech #station #furnace #netherite 
