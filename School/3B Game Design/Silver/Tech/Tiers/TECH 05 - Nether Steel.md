@@ -13,4 +13,8 @@
 - [[Nether Steel Printer Head]]
 - [[Nether Steel Heating Plate]]
 
+---
+## Next Best
+[[TECH 06 - Carbon Nanotube|Carbon Nanotube]]
+
 #tech #tier #nether_steel
