@@ -1,0 +1,1 @@
+Khai was pacing nervously. He kept glancing out of the shattered window, out into the white void outside. Luckily, enough of a snowbank had piled up below the window sill that he could look out. Not that that eased his nerves. He glanced back at the other two. They were still
