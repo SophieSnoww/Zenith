@@ -1,3 +1,5 @@
+# LOGIC ∧ LOVE
+
 1. ...01.0--BO0T_SEq; [BOOT SEQUENCE]
 2. ⊤ Love [TRUE Love]
 3. ¬Again [NOT Again]
@@ -7,7 +9,7 @@
 7. 𝐴 ↓ 𝐵 [A NOR B]
 8. Love ⊻ War [Love XOR War]
 9. 𝐴 ⊙ 𝐵 [A XNOR B]
-10. ∃! 𝑈 [There exists exactly one you] 
-11. ◇ it ⟤≔ ∃ [It's possible it was always meant to be] 
+10. ∃! 𝑈 [There exists exactly one you]
+11. ◇ it ⟤≔ ∃ [It's possible it was always meant to be]
 12. �������� [EMOTIONAL OVERFLOW]
 13. ⊥ [FALSE]

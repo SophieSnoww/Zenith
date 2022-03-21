@@ -1,3 +1,5 @@
+# Music Collective Name Brainstorming
+
 - ~~White Boy Swag~~
 - ~~$11.7 million gold cube~~
 - something related to "quirked up white boy with a little bit of swag busts it down sexual style... is he goated with the sauce?"
@@ -5,15 +7,15 @@
 - ~~boy is the new girl idk~~
 - L + plundered + no wenches + marooned + you have scurvy
 - something about minecraft
-	- villager related??
-	- niche mechanics
-		- quazi connectivity or something idunno
-		- relate the mechanic to music prod somehow
-	- minecraft amongus mod working 1.8
+    - villager related??
+    - niche mechanics
+        - quazi connectivity or something idunno
+        - relate the mechanic to music prod somehow
+    - minecraft amongus mod working 1.8
 - ~~unwarranted & unwanted~~
 - time prison?
 - ~~george w bush~~
-	- ~~clinton? obama?~~
+    - ~~clinton? obama?~~
 - $10 mode
 - somethjing about resonant frequency
 - cucumber, 1pc, $0.39
@@ -24,9 +26,9 @@
 - ~~grab gods ass~~
 - ~~the problem~~
 - synth -> sin ? theres a joke there probably
-	- sinth?
-		- sith. :|
+    - sinth?
+        - sith. :|
 - amd / intel / nvidia / dell / corsair
-	- relate corsair to the L + plundered thing?
+    - relate corsair to the L + plundered thing?
 - very novel concept: make an actual music collective and post albums, some of which are completely dumb and some of which are actual music
 - idunno
