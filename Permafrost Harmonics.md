@@ -1,5 +1,28 @@
 # Permafrost Harmonics
 
+- [Permafrost Harmonics](#permafrost-harmonics)
+    - [Brainstorming Names (Namestorming? I am hilarious)](#brainstorming-names-namestorming-i-am-hilarious)
+    - [Misc](#misc)
+        - [Albums](#albums)
+        - [Songs](#songs)
+    - [Members](#members)
+        - [Sydney / Dusk](#sydney--dusk)
+            - [Genres](#genres)
+        - [Sylas](#sylas)
+            - [Sylas' Genres](#sylas-genres)
+        - [Scarlet](#scarlet)
+            - [Scarlet's Genres](#scarlets-genres)
+        - [Zephyr](#zephyr)
+            - [Zephyr's Genres](#zephyrs-genres)
+        - [Pseudo / bAttery__Acid](#pseudo--battery__acid)
+            - [bAttery__Acid's Genres](#battery__acids-genres)
+        - [Carmen](#carmen)
+            - [Carmen's Genres](#carmens-genres)
+        - [Sam](#sam)
+            - [Sam's Genres](#sams-genres)
+        - [Skittish](#skittish)
+            - [Skittish's Genres](#skittishs-genres)
+
 ## Brainstorming Names (Namestorming? I am hilarious)
 
 - Intrigue & Demeanor
