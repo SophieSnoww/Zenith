@@ -1,5 +1,12 @@
 # Chapter 3 Notes
 
+- [Chapter 3 Notes](#chapter-3-notes)
+  - [House of Representatives](#house-of-representatives)
+    - [What The Representatives Do](#what-the-representatives-do)
+    - [Speaker of the House](#speaker-of-the-house)
+  - [Senate](#senate)
+    - [What The Senate Does](#what-the-senate-does)
+
 ## House of Representatives
 
 - 2 year term length
