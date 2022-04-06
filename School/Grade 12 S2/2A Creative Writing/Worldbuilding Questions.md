@@ -48,6 +48,12 @@ MS GARRETT YOUVE MADE ME FALL DOWN A RABBIT HOLE AND NOW I WANT TO MAKE A LANGUA
 
 ![WAUGH](https://cdn.discordapp.com/emojis/933067130574893066.png)
 
+---
+
+# I didn't answer any of the following, you can ignore them, I just want to answer them later so I don't want to delete them
+
+## Anyways. the questions
+
 ### **How much land is there, and how much of it is habitable?**
 
 ### **Is the axial tilt and orbit the same — i.e., does the world have the same seasons and same length of year as Earth?**
