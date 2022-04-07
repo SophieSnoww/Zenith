@@ -6,6 +6,7 @@
     - [Speaker of the House](#speaker-of-the-house)
   - [Senate](#senate)
     - [What The Senate Does](#what-the-senate-does)
+  - [How Members of Congress Vote](#how-members-of-congress-vote)
 
 ## House of Representatives
 
@@ -52,3 +53,12 @@
 - Approves all appointments
 - Chooses Vice President when theres no majority in Electoral College
 - Acts as the jury in all trials of impeachment
+
+## How Members of Congress Vote
+
+| Type     | Description                                                   |
+| -------- | ------------------------------------------------------------- |
+| Delegate | Votes based on what people want, not what they want           |
+| Trustee  | Votes based on what they think is best. "trust me", basically |
+| Partisan | Votes with the party                                          |
+| Pilitico | Balances all views                                            |
