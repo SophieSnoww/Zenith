@@ -6,7 +6,11 @@
     - [Speaker of the House](#speaker-of-the-house)
   - [Senate](#senate)
     - [What The Senate Does](#what-the-senate-does)
-  - [How Members of Congress Vote](#how-members-of-congress-vote)
+  - [Congress](#congress)
+    - [How Members of Congress Vote](#how-members-of-congress-vote)
+    - [Polarized Congress](#polarized-congress)
+    - [The Organization of Congress: Committees](#the-organization-of-congress-committees)
+  - [How a Bill Becomes a Law](#how-a-bill-becomes-a-law)
 
 ## House of Representatives
 
@@ -54,11 +58,38 @@
 - Chooses Vice President when theres no majority in Electoral College
 - Acts as the jury in all trials of impeachment
 
-## How Members of Congress Vote
+## Congress
+
+### How Members of Congress Vote
 
 | Type     | Description                                                   |
 | -------- | ------------------------------------------------------------- |
 | Delegate | Votes based on what people want, not what they want           |
 | Trustee  | Votes based on what they think is best. "trust me", basically |
 | Partisan | Votes with the party                                          |
-| Pilitico | Balances all views                                            |
+| Politico | Balances all views                                            |
+
+### Polarized Congress
+
+- If there's a 50/50 vote, the vice president decides
+
+- A more ideological perspective has been brought to Congress
+- Congress' most liberal members are Democrats
+- Congress' most conservative members are Republicans
+- Are voters closer to the center of the political spectrum?
+
+### The Organization of Congress: Committees
+
+- Standing Committees
+- Select Committees
+- Joint Committees
+  - Made up of people from both the house and the senate
+- Conference Committees
+
+## How a Bill Becomes a Law
+
+1. Introducing a bill
+2. Legislative productivity
+3. Study by committee
+4. Floor debate - the house
+5. Floor debate - the senate
