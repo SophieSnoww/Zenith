@@ -20,3 +20,5 @@
 - A return or jump forward to relatively returned-to-normal life, the magical char having learned that their magic isn't inherently bad
 
 ### 02
+
+- I dunno
