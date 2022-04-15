@@ -54,7 +54,7 @@
   - Perhaps [Ol'koa](#olkoa) gets upset at them about it
     - They have to put their whole effort into saving [Aer'tera](#aertera) and waking them up again
       - [Ol'koa](#olkoa) won't let [Teir'in](#teirin) attempt to use magic to heal
-        - It's too unpredictable, you might just kill her, we can't trust you, etc. etc.
+        - It's too unpredictable, you might just kill them, we can't trust you, etc. etc.
     - [Aer'tera](#aertera) convinces the upset friend to help
     - Big whole sequence about remembering past experiences with the [Teir'in](#teirin)
       - Include small things, flesh out the world, include those humanizing experiences
