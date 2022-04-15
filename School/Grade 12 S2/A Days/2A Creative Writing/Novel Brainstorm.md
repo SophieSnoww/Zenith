@@ -159,7 +159,7 @@ Pronounciation: *˩ ka / ˨ zi / ˨ tik*
 Pronounciation: *˧ in / ˦ zi / ˦ ta*
 
 - Skittish like a wild animal
-- Still very capable and will stand up for herself
+- Still very capable and will stand up for themself
 
 ## Worldbuilding
 
