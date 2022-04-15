@@ -1,30 +1,27 @@
-# Novel Brainstorm
+# Magic, Emotions, & Depression Brainstorm
 
-- [Novel Brainstorm](#novel-brainstorm)
-  - [Magic, Emotions, & Depression](#magic-emotions--depression)
-    - [Plot](#plot)
-      - [Story Circle Layout](#story-circle-layout)
-        - [Comfort](#comfort)
-        - [Desire](#desire)
-        - [Unfamiliar Situation](#unfamiliar-situation)
-        - [Adapting](#adapting)
-        - [Getting What They Want](#getting-what-they-want)
-        - [Paying a Price](#paying-a-price)
-        - [Return to Familiarity](#return-to-familiarity)
-        - [Change](#change)
-    - [Characters](#characters)
-      - [Teir'in](#teirin)
-      - [Ol'koa](#olkoa)
-      - [Aer'tera](#aertera)
-      - [Ka'zitik](#kazitik)
-      - [Inzi'ta](#inzita)
-    - [Worldbuilding](#worldbuilding)
-      - [Race](#race)
-      - [Language](#language)
+- [Magic, Emotions, & Depression Brainstorm](#magic-emotions--depression-brainstorm)
+  - [Plot](#plot)
+    - [Story Circle Layout](#story-circle-layout)
+      - [Comfort](#comfort)
+      - [Desire](#desire)
+      - [Unfamiliar Situation](#unfamiliar-situation)
+      - [Adapting](#adapting)
+      - [Getting What They Want](#getting-what-they-want)
+      - [Paying a Price](#paying-a-price)
+      - [Return to Familiarity](#return-to-familiarity)
+      - [Change](#change)
+  - [Characters](#characters)
+    - [Teir'in](#teirin)
+    - [Ol'koa](#olkoa)
+    - [Aer'tera](#aertera)
+    - [Ka'zitik](#kazitik)
+    - [Inzi'ta](#inzita)
+  - [Worldbuilding](#worldbuilding)
+    - [Race](#race)
+    - [Language](#language)
 
-## Magic, Emotions, & Depression
-
-### Plot
+## Plot
 
 - Tribal life, foraging and wandering the frozen planet
   - Normal hunting scene to illustrate what life is normally like
@@ -74,29 +71,29 @@
   - Contains the evil within themself? Has to deal with that now?
 - A return or jump forward to relatively returned-to-normal life, [Teir'in](#teirin) having learned that their magic isn't inherently bad
 
-#### Story Circle Layout
+### Story Circle Layout
 
-##### Comfort
+#### Comfort
 
 - Hunting like normal, enjoying a night together around a fire
 
-##### Desire
+#### Desire
 
 - Not super applicable
 - [Teir'in](#teirin) accidentally gets strong magic
   - They want to get rid of it?
 
-##### Unfamiliar Situation
+#### Unfamiliar Situation
 
 - Trekking across the planet
   - Visiting places they never have before
 - Having to deal with [Teir'in](#teirin)'s magic
 
-##### Adapting
+#### Adapting
 
 - They begin to understand the magic, and help [Teir'in](#teirin) control it and use it for good
 
-##### Getting What They Want
+#### Getting What They Want
 
 - They fight [Ka'zitik](#kazitik)
   - [Teir'in](#teirin) is almost sucked back into their depression
@@ -105,17 +102,17 @@
     - A limb?
     - An eye?
 
-##### Paying a Price
+#### Paying a Price
 
 - [Teir'in](#teirin) has to contain the evil within themself?
 - They have to deal with scars
   - Lost limb/lost eye/whatever
 
-##### Return to Familiarity
+#### Return to Familiarity
 
 - Return to hunting, travelling together and just... living
 
-##### Change
+#### Change
 
 - They're all closer-knit
   - They care about each other more (or at least show it more)
@@ -123,23 +120,23 @@
   - [Ol'koa](#olkoa) has learned to be more kind, and give people chances
   - [Aer'tera](#aertera) has learned to stand up for themself, and to be their own person
 
-### Characters
+## Characters
 
-#### Teir'in
+### Teir'in
 
 Pronounciation: *˧ tee / ˦ ir / ˨ in*
 
 - Book smart
 - Knowledgable about plants and animals
 
-#### Ol'koa
+### Ol'koa
 
 Pronounciation: *˧ ol / ˥ ko / ˨ ah*
 
 - Strong, usually upfront about things, but very caring
 - Usually acts as a leader figure, but gets overemotional when [Teir'in](#teirin) hurts [Aer'tera](#aertera)
 
-#### Aer'tera
+### Aer'tera
 
 Pronounciation: *˥ air / ˨ ter / ˨ ah*
 
@@ -147,7 +144,7 @@ Pronounciation: *˥ air / ˨ ter / ˨ ah*
 - Wants to help
 - Begins to take the lead after they're hurt by [Teir'in](#teirin)
 
-#### Ka'zitik
+### Ka'zitik
 
 Pronounciation: *˩ ka / ˨ zi / ˨ tik*
 
@@ -157,22 +154,22 @@ Pronounciation: *˩ ka / ˨ zi / ˨ tik*
     - Yin/yang type deal? [Inzi'ta](#inzita) is the good and [Ka'zitik](#kazitik) is the bad?
       - Somethin about balance of the universe idunno
 
-#### Inzi'ta
+### Inzi'ta
 
 Pronounciation: *˧ in / ˦ zi / ˦ ta*
 
 - Skittish like a wild animal
 - Still very capable and will stand up for herself
 
-### Worldbuilding
+## Worldbuilding
 
-#### Race
+### Race
 
 - Ammonia-based anatomy, very adapted to extremely cold conditions
 - Extremely good hearing
 - Raptor-like anatomy, feathered like birds
 
-#### Language
+### Language
 
 - Bird-esque
   - Very musical sounding, lots of meaning conveyed by different tones
