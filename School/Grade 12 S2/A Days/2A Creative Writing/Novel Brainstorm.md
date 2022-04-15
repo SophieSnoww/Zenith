@@ -171,7 +171,12 @@ Pronounciation: *˧ in / ˦ zi / ˦ ta*
 
 ### Language
 
+- See [this chart](https://docs.google.com/spreadsheets/d/1l8iJW_zHnasdyu4WT_wCIE6Pgs2X0nOBTq4dsTbzqdE/edit?usp=sharing)
 - Bird-esque
   - Very musical sounding, lots of meaning conveyed by different tones
+  - The species doesn't have lips in the same way that humans do
+    - Thus, sounds like "puh" and "buh" become borderline impossible
+    - The only caveat is that, being related to birds, they can imitate sounds very well
+      - The only lip-type sounds they can create is an "m", and even then, they use their throat instead of their lips.
   - Clicky and "crunchy" sounding
     - Lots of hard consonants, e.g. "tchaka"
