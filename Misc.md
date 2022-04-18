@@ -2,8 +2,12 @@
 
 - [Misc](#misc)
   - [Lyrics](#lyrics)
+    - [AFTER DEATH](#after-death)
+    - [Something](#something)
 
 ## Lyrics
+
+### AFTER DEATH
 
 no one knows what is after death.
 for who is there to speak for the dead?
@@ -31,3 +35,7 @@ it is nothing,
 a terrifying, vast, minuscule, imperceptible.
 
 nothing.
+
+### Something
+
+
