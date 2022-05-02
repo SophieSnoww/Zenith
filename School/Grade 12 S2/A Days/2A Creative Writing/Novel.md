@@ -32,8 +32,28 @@ As they approached, Teir'in lost sight of the dark figure. They hadn't looked aw
 
 "The dark figure... Ka'zitik. That's..- That's its name..." The sa'kai spoke even quieter, and Teir'in couldn't help but tear up, knowing they were witnessing someone die right in front of them. "Kill them... and then, only then... will you be truly free."
 
-"I-" Teir-in had to hold back tears. "I'll- I'll do whatever it takes. To avenge you..."
+"I-" Teir'in had to hold back tears. "I'll- I'll do whatever it takes. To avenge you..." It felt strange that they were so determined to help this sa'kai they had never met before, but... Teir'in couldn't help but feel a sense of duty.
 
 The sa'kai smiled gently, closing their eyes. They gave out a gasp of pain, took a long, shaky breath, and went limp. Teir'in couldn't do anything but close their eyes, their tears falling onto the feathers of the dead sa'kai in front of them. They didn't even know the sa'kai, and it would probably take a lot of discussion with the other two to puzzle out what they meant, but... Teir'in felt strangely compelled to help, however they could.
 
 Suddenly, Teir'in felt white-hot. They opened their eyes in shock, but saw nothing but white. They heard an explosion so loud they wanted to claw their ears off, and felt themself get tossed backwards, still only seeing white. Teir'in hit the ground hard, their entire body feeling like it had electricity coursing through it, tensing every muscle, and lost consciousness.
+
+===
+
+Ol'koa and Aer'tera jolted awake as a loud explosion sounded relatively nearby. They quickly scrambled to their feet, ears perked up as they glanced around, ready for anything. After a few moments, they relaxed, but tensed up again when they realized Teir'in was gone.
+
+"Teir'in!?" Ol'koa shouted, and they both waited for a response. When none came, they were even more worried.
+
+"The explosion sounded like it was that way...!" Aer'tera said, looking worried.
+
+"You're right. We just have to hope that Teir'in wasn't hurt..."
+
+The two sa'kai cautiously walked in the direction of the sound, coming to a small outcropping of rock. From here, they could see the large expanse of forest below, and, very noticably, a circle of charred, uprooted, and flaming trees. Ol'koa gave Aer'tera a worried glance, and the two of them jumped off the ledge, gliding down towards the site of the explosion. They landed and ran through the forest towards it, and when they reached the clearing, they saw what they were fearing: Teir'in was laying face-down on the charred ground, unmoving. Strangely, though, Teir'in didn't look like they had just been through an explosion at all - they looked completely fine, if unconscious.
+
+"Teir'in! Oh no, no no no..." Aer'tera ran and knelt beside Teir'in, looking them over. They gently nudged them. "Please wake up, please..."
+
+Ol'koa stood back, looking around the clearing in shock. "How in the world did this happen...?" The clearing was entirely empty, if burnt.
+
+"They're still breathing...!" Aer'tera spoke softly, as if being too loud would hurt Teir'in more. "Should we... take them back to camp...?"
+
+"Yes. They don't look injured, so it should be safe to move them... Here, I'll carry them." Ol'koa walked over and gently picked up Teir'in, then led the way back to the camp.
