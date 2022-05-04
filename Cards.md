@@ -54,28 +54,38 @@
 
 ### Archetypes
 
-- 
-
 ### List of Cards
 
-| Name                      | Cost | Effect                                                                                                 |
-| ------------------------- | ---- | ------------------------------------------------------------------------------------------------------ |
-|                           | 4    | Cards you play cost 1 less                                                                             |
-| Bomb                      | 2    | (Enters flipped, unflip at the beginning of your turn) Flip and smash to deal 3 damage                 |
-| Crown of Thorns           | 2    | When an opponent deals damage to you, they take 1 damage                                               |
-| Crystal Rose              | 3    | While you control this relic, your level is increased by 1                                             |
-| Petty Theft               | 3    | Steal target relic that costs 2 or less                                                                |
-| Grand Theft Auto          | 7    | Steal target relic                                                                                     |
-| The Everything Cannon     | 3    | Flip and discard a card: target player takes damage equal to the return value of the discarded card    |
-| Scavenge                  | 3    | Put a relic from the scrapyard into your hand                                                          |
-| Reckless Ball             |      | (Unflip: destroy a relic you own) Flip: destroy a relic                                                |
-|                           |      | Discard a card, then destroy all relics with a cost equal to the return value of the discarded card    |
-| Change of Plans           | 6    | Two players swap agendas                                                                               |
-| Back to the Drawing Board | 4    | Everyone passes their agenda to the player on their left                                               |
-| Jewelled Crown            | 5    | When a player deals you damage, they draw a card                                                       |
-| Big ol' Book              | 4    | (Unflip: pay 3) Flip: draw a card                                                                      |
-| Mind Swap                 | 7    | Swap titans with another player until the beginning of your next turn. This does not affect your level |
-|                           |      |                                                                                                        |
+| Name                      | Cost | Effect                                                                                                           |
+| ------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------- |
+|                           | 4    | Cards you play cost 1 less                                                                                       |
+| Bomb                      | 2    | (Enters flipped, unflip at the beginning of your turn) Flip and smash to deal 3 damage                           |
+| Crown of Thorns           | 2    | When an opponent deals damage to you, they take 1 damage                                                         |
+| Crystal Rose              | 3    | While you control this relic, your level is increased by 1                                                       |
+| Petty Theft               | 3    | Steal target relic that costs 2 or less                                                                          |
+| Grand Theft Auto          | 7    | Steal target relic                                                                                               |
+| The Everything Cannon     | 3    | Flip and discard a card: target player takes damage equal to the return value of the discarded card              |
+| Scavenge                  | 3    | Put a relic from the scrapyard into your hand                                                                    |
+| Reckless Ball             |      | (Unflip: destroy a relic you own) Flip: destroy a relic                                                          |
+|                           |      | Discard a card, then destroy all relics with a cost equal to the return value of the discarded card              |
+| Change of Plans           | 6    | Two players swap agendas                                                                                         |
+| Back to the Drawing Board | 4    | Everyone passes their agenda to the player on their left                                                         |
+| Jewelled Crown            | 5    | When a player deals you damage, they draw a card                                                                 |
+| Big ol' Book              | 4    | (Unflip: pay 3) Flip: draw a card                                                                                |
+| Mind Swap                 | 7    | Swap titans with another player until the beginning of your next turn. This does not affect your level           |
+| Dragon Breath             | 6    | Deal 3 damage. This cannot be blocked                                                                            |
+| Giving Tree               | 1    | (Unflip at the beginning of your turn) Flip: draw a card, then give Giving Tree to another player                |
+| Wand of Feebling          | 4    | (Unflip at the beginning of your turn) Flip: target player discards a card                                       |
+| Looking Glass             | 3    | (Unflip: discard a card) Flip: look at target players hand                                                       |
+|                           |      | Every player passes their hand to the right (Event)                                                              |
+| Reuse                     | 3    | Unflip target relic                                                                                              |
+|                           |      | Swap the library and the junkyard (Event)                                                                        |
+| Mana Rock IDK             |      | (Unflip: pay 1 mana) Flip: add 1 mana                                                                            |
+| Pew                       | 2    | Deal 1 damage                                                                                                    |
+| Pew Pew                   | 3    | Deal 2 damage                                                                                                    |
+| Pew Pew Pew               | 4    | Deal 3 damage                                                                                                    |
+| Cool Hat                  | 2    | When you gain control of Cool Hat, draw a card. When a player deals damage to you, they gain control of Cool Hat |
+|                           |      |                                                                                                                  |
 
 ## Mana
 
