@@ -1,41 +1,44 @@
 # Misc
 
 - [Misc](#misc)
-  - [Lyrics](#lyrics)
-    - [AFTER DEATH](#after-death)
-    - [Something](#something)
+  - [Math](#math)
 
-## Lyrics
+## Math
 
-### AFTER DEATH
+$$
+\text{Sum of Sequence}\\
+S_n=\sum_{i=a_1}^{n+(a_1-1)}{(d(i-a_1)+a_1)}\\
+$$
 
-no one knows what is after death.
-for who is there to speak for the dead?
+$$
+\text{Sum of Sequence (Lame)}\\
+S_n=\frac{n}{2}(a_1+a_n)
+$$
 
-perhaps it is void;
-an empty, gazing abyss;
-knowing all; judging harshly.
+---
 
-perhaps a void so empty,
-so black and sickeningly vast,
-that we cannot even begin to understand it.
+$$
+\text{Difference of Sequence}\\
+d=\frac{a_n-a_1}{n-1}
+$$
 
-perhaps it is heaven,
-a utopia, a final resting.
+---
 
-and perhaps it is a wall of misdeeds;
-of judgements, of pain inflicted,
-of all the sin you have wrought,
-of all the wrong you have done.
+$$
+\text{nth Term of Sequence}\\
+a_n=a_1+d(n-1)
+$$
 
-but perhaps most likely,
+---
 
-it is nothing,
+$$
+\text{First Term of Sequence}\\
+a_1=a_{n_1}-(n_2-n_1)\Big(\frac{a_{n_2}-a_{n_1}}{n_2-n_1}\Big)
+$$
 
-a terrifying, vast, minuscule, imperceptible.
+---
 
-nothing.
-
-### Something
-
-
+$$
+a_1\ \text{Given}\ S_n\ \text{and}\ a_n\\
+a_1=\frac{S_n}{\frac{n}{2}}-a_n
+$$
