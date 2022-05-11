@@ -162,6 +162,87 @@ Home
 > > Thursday Night Thrashin'!
 
 ---
+  - [Modern Deck](#modern-deck)
+    - [Creatures](#creatures)
+    - [Land](#land)
+    - [Instants](#instants)
+    - [Sorceries](#sorceries)
+    - [Artifacts](#artifacts)
+    - [Planeswalkers](#planeswalkers)
+  - [Math](#math)
+
+## Modern Deck
+
+### Creatures
+
+- 2x Blightsteel Colossus
+  - **Cost**: 12
+  - **11/11**
+  - Trample, infect, indesctructible
+  - Gets shuffled into your library instead of going to your graveyard
+- 2x Conduit of Ruin
+  - **Cost**: 6
+  - **5/5**
+  - Search your library for colorless creature CMC >6, put it on top
+  - First creature spell each turn costs 2 less
+- 1x Emrakul, the Aeons Torn
+  - **Cost**: 15
+  - **15/15**
+  - Flying, pro color, annihilator 6
+  - Can't be countered
+  - Gets shuffled into your library instead of going to your graveyard
+  - When cast, take an extra turn
+- 1x Emrakul, the Promised End
+  - **Cost**: 13
+  - **13/13**
+  - Flying, trample, pro instants
+  - Costs 1 less for each card type in your graveyard
+  - Gain control of another player for the next turn (they take another turn afterwards)
+- 3x Endless One
+  - **Cost**: X
+  - **X/X**
+- 1x Kozilek, Butcher of Truth
+  - **Cost**: 10
+  - **12/12**
+  - Annihilator 4
+  - Draw 4 cards
+  - Gets shuffled into your library instead of going to your graveyard
+- 1x Kozilek, the Great Distortion
+  - **Cost**: 10
+  - **12/12**
+  - Menace
+  - Draw up to 7 cards in hand
+  - Discard a spell with CMC X: counter target spell with CMC X
+- 3x Palladium Myr
+  - **Cost**: 3
+  - **2/2**
+  - Tap: add 2
+- 2x Spellskite
+  - **Cost**: 2
+  - **0/4**
+  - 2 life: Make target spell target Spellskite
+- 1x Ulamog, the Ceaseless Hunger
+  - **Cost**: 10
+  - **10/10**
+  - Indesctructible
+  - Exile two target permanents
+  - When they attack, defending player exiles the top 20 cards of their library (WHAT)
+- 1x Ulamog, the Infinite Gyre
+  - **Cost**: 11
+  - **10/10**
+  - Indestructible, annihilator 4
+  - Destroys target permanent
+  - Gets shuffled into your library instead of going to your graveyard
+
+### Land
+
+### Instants
+
+### Sorceries
+
+### Artifacts
+
+### Planeswalkers
 
 ## Math
 
