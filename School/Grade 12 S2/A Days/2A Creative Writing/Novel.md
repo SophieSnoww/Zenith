@@ -1,7 +1,5 @@
 # Novel
 
-## Chapter 1
-
 Teir'in, Ol'koa, and Aer'tera scoured the landscape around them. The trio had been travelling all day, which certainly wasn't abnormal, but they had decided to take an extra arduous journey today. They didn't have much to focus on, so they chose to continue filling the map they had - one of their prized possessions, as with all sa'kai families. The sun was beginning to rise, and as the sky gradually lightened, they began looking for somewhere to spend the night.
 
 "Oh, there! That looks nice!" Aer'tera said, in their particularly musical voice. They gestured to a little spot of flat ground amidst the jungle-like forest around them.
@@ -76,7 +74,7 @@ By midnight, Teir'in still hadn't woken up. Both Ol'koa and Aer'tera were worrie
 
 "What? Where?" Ol'koa walked quickly over to Teir'in, looking worried. It didn't look like anything had changed.
 
-"No, not Teir'in. Look beside them!" Ol'koa looked at where she was pointing, right by Teir'ins head. There were a few flowers and mushrooms that Ol'koa hadn't seen before, but Ol'koa wasn't exactly paying attention to the foliage when they were trying to help their hatchmate.
+"No, not Teir'in. Look beside them!" Ol'koa looked at where they were pointing, right by Teir'ins head. There were a few flowers and mushrooms that Ol'koa hadn't seen before, but Ol'koa wasn't exactly paying attention to the foliage when they were trying to help their hatchmate.
 
 "The flowers? What about them?" Ol'koa sighed a little when they realized that Aer'tera was probably getting excited over nothing, though it did make them happy to see them happy.
 
@@ -84,6 +82,10 @@ By midnight, Teir'in still hadn't woken up. Both Ol'koa and Aer'tera were worrie
 
 Ol'koa glanced skeptically back at the plants. "Just because we didn't notice them doesn't mean they weren't there."
 
-"No, I swear, they-" Aer'tera suddenly gasped, and got up to kneel next to Teir'in. Ol'koa saw what she gasped at as she reached a talon forward and gently held a flower that appeared to be growing right in front of them. Neither of them had ever seen something grow that quickly, and after a few seconds, the flower was in full bloom.
+"No, I swear, they-" Aer'tera suddenly gasped, and got up to kneel next to Teir'in. Ol'koa saw what they gasped at as they reached a talon forward and gently held a flower that appeared to be growing right in front of them. Neither of them had ever seen something grow that quickly, and after a few seconds, the flower was in full bloom.
 
-"What..." Ol'koa didn't know what to think.
+"What..." Ol'koa didn't know what to think. They gently pick Teir'in up, moving them a few feet to the side. The plants just continued to bloom wherever Teir'in was, though Ol'koa shivered when they put Tier'in down. "It felt like... a large amount of energy. Holding them, I mean. Like they gave off energy."
+
+They couldn't do much other than look in awe as Teir'in lay there, plants growing around them. Ol'koa gave Aer'tera a concerned look, but Aer'tera only shrugged in response.
+
+
