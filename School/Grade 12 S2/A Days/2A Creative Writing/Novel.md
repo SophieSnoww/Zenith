@@ -12,7 +12,7 @@ Teir'in, Ol'koa, and Aer'tera scoured the landscape around them. The trio had be
 
 "I honestly enjoy the more intense days. Seeing all the sights and getting to chart new locations is really exciting, I think," Teir'in responded as they gazed up at the brightening sky. Aer'tera nodded their agreement as they added a few spices to the stew simmering over the fire. "Though, obviously, we couldn't do that every night."
 
-===
+---
 
 Teir'in woke before the other two, as they normally would. They enjoyed watching the sunset and feeling the air cool off a little, and this evening was no different. They stood up, stretched, ruffled their feathers, and started wandering through the forest towards an outcropping they had seen last night. They found it before too long, finding a nice place to sit and relax. They sat and watched as the sun slipped below the horizon, the sky darkening and filling with stars. It was easy to lose track of time, but that's exactly what they enjoyed doing - it's not like there was anything else they needed to do.
 
@@ -38,7 +38,7 @@ The sa'kai smiled gently, closing their eyes. They gave out a gasp of pain, took
 
 Suddenly, Teir'in felt white-hot. They opened their eyes in shock, but saw nothing but white. They heard an explosion so loud they wanted to claw their ears off, and felt themself get tossed backwards, still only seeing white. Teir'in hit the ground hard, their entire body feeling like it had electricity coursing through it, tensing every muscle, and lost consciousness.
 
-===
+---
 
 Ol'koa and Aer'tera jolted awake as a loud explosion sounded relatively nearby. They quickly scrambled to their feet, ears perked up as they glanced around, ready for anything. After a few moments, they relaxed, but tensed up again when they realized Teir'in was gone.
 
@@ -57,3 +57,33 @@ Ol'koa stood back, looking around the clearing in shock. "How in the world did t
 "They're still breathing...!" Aer'tera spoke softly, as if being too loud would hurt Teir'in more. "Should we... take them back to camp...?"
 
 "Yes. They don't look injured, so it should be safe to move them... Here, I'll carry them." Ol'koa walked over and gently picked up Teir'in, then led the way back to the camp.
+
+The journey back to the camp felt like forever, even though it was really only a minute or two. Aer'tera couldn't help but check on Teir'in every few moments, but Ol'koa stood stoic as ever, trying not to let his worry show.
+
+"They'll be okay," said Ol'koa as they stepped back into their little camp. The sun had set and it was quickly darkening, so Aer'tera started another small fire in the firepit from last night. Ol'koa gently lay Teir'in down on a blanket, and surveyed their body.
+
+"They're still breathing fine... They're not even burnt, which, well, I'm very glad for, but it's very confusing." Ol'koa gently rolled Teir'in onto their side, checking their back, but saw nothing. "Their pulse is fine... I'm not sure we can do much but make sure their comfortable and just... wait."
+
+Aer'tera looked worried, but knew that Ol'koa was right.
+
+---
+
+By midnight, Teir'in still hadn't woken up. Both Ol'koa and Aer'tera were worried, and they were checking Teir'ins pulse and breathing more and more often, but they couldn't think of anything else to do. Teir'in wasn't injured, no matter how you looked at it.
+
+---
+
+"Oh!" Aer'tera spoke suddenly, and pointed at Teir'in. "Look!"
+
+"What? Where?" Ol'koa walked quickly over to Teir'in, looking worried. It didn't look like anything had changed.
+
+"No, not Teir'in. Look beside them!" Ol'koa looked at where she was pointing, right by Teir'ins head. There were a few flowers and mushrooms that Ol'koa hadn't seen before, but Ol'koa wasn't exactly paying attention to the foliage when they were trying to help their hatchmate.
+
+"The flowers? What about them?" Ol'koa sighed a little when they realized that Aer'tera was probably getting excited over nothing, though it did make them happy to see them happy.
+
+"They weren't there before! I swear."
+
+Ol'koa glanced skeptically back at the plants. "Just because we didn't notice them doesn't mean they weren't there."
+
+"No, I swear, they-" Aer'tera suddenly gasped, and got up to kneel next to Teir'in. Ol'koa saw what she gasped at as she reached a talon forward and gently held a flower that appeared to be growing right in front of them. Neither of them had ever seen something grow that quickly, and after a few seconds, the flower was in full bloom.
+
+"What..." Ol'koa didn't know what to think.
