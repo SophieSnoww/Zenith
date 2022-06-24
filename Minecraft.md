@@ -38,25 +38,25 @@ There are 5 different normal world types in Minecraft: Java Edition, and 1 *hidd
 
 > Default
 
-The default world type uses the normal, natural generation of a minecraft world. It's the standard minecraft experience, generating all biomes and all structures. (See [Biomes](#biomes) and [Structures](#structures))
+This world type is the normal, natural generation of a minecraft world. It's the standard minecraft experience, generating all biomes and all structures. (See [Biomes](#biomes) and [Structures](#structures))
 
 > Superflat
 
-Superflat worlds are just that: very flat. The default ration has 1 layer of bedrock, 2 layers of dirt, and 1 final layer of grass. No biomes generate, and villages are the only structure that generates.
+The default superflat generation has 1 layer of bedrock, 2 layers of dirt, and 1 final layer of grass. No biomes generate, and villages are the only structure that generates.
 
 Superflat worlds do have customization options, though. You can use presets, or create your own. (See [Superflat Presets](#superflat-worlds---presets) and [Custom Superflat Presets](#superflat-worlds---custom-presets))
 
 > Amplified
 
-Amplified worlds are what they say - world generation, amplified. Massive mountains generate, often reaching the world height limit. Huge cliffs are everywhere, and it's often difficult to get around. This can be very fun if you're looking to challenge yourself, or just looking for an interesting experience, though!
+Amplified worlds generate extreme mountains, with vertical cliffs reaching up to the height limit. Travelling is difficult, and deaths by falling are frequent. This can be very fun if you're looking to challenge yourself, or just looking for an interesting experience! The world will generate all biomes and structures, so it's still possible to beat the game!
 
 > Large Biomes
 
-Large biomes generation is normal world generation, but with every biome 16 times larger. This makes generated structures much more likely to be found.
+Large biomes generation is normal world generation, but with every biome 16 times larger. This makes generated structures much more likely to be found, but it can also make finding some rarer or biome-specific resources a huge pain.
 
 > Single Biome
 
-Single-biome worlds will generate using only one biome, but the structures generated won't change.
+Single-biome worlds will generate using only one biome. Besides that, all (possible) structures will generate.
 
 > Hidden World Type: Debug
 
@@ -64,7 +64,7 @@ The "debug" world type can only be accessed by holding down the ALT key on your 
 
 > Custom
 
-Customizable worlds are worlds that take JSON data (See [What is JSON?](#what-is-json)), which changes how existing dimensions generate, and can also add entirely new dimensions. This is a pretty complicated process, and definitely isn't for any new players. (See [Custom Worlds](#custom-worlds))
+Customizable worlds take JSON data (See [What is JSON?](#what-is-json)), which changes how existing dimensions generate, and can also add entirely new dimensions. This is a pretty complicated process, and definitely isn't for any new players. (See [Custom Worlds](#custom-worlds))
 
 ---
 
