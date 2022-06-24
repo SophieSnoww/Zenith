@@ -22,7 +22,7 @@
     - [Language](#language)
 
 ## Plot
- They could tell it hadn't come from where the other two were - thankfully. Teir'in leaped
+
 - Tribal life, foraging and wandering the frozen planet
   - Normal hunting scene to illustrate what life is normally like
   - Establish normal roles

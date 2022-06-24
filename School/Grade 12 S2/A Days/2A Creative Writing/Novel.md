@@ -87,5 +87,3 @@ Ol'koa glanced skeptically back at the plants. "Just because we didn't notice th
 "What..." Ol'koa didn't know what to think. They gently pick Teir'in up, moving them a few feet to the side. The plants just continued to bloom wherever Teir'in was, though Ol'koa shivered when they put Tier'in down. "It felt like... a large amount of energy. Holding them, I mean. Like they gave off energy."
 
 They couldn't do much other than look in awe as Teir'in lay there, plants growing around them. Ol'koa gave Aer'tera a concerned look, but Aer'tera only shrugged in response.
-
-

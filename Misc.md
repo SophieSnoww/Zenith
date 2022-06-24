@@ -4,6 +4,13 @@
   - [Lyrics](#lyrics)
     - [Home](#home)
     - [Technophilic](#technophilic)
+  - [Modern Deck](#modern-deck)
+    - [Creatures](#creatures)
+    - [Land](#land)
+    - [Instants](#instants)
+    - [Sorceries](#sorceries)
+    - [Artifacts](#artifacts)
+    - [Planeswalkers](#planeswalkers)
   - [Math](#math)
 
 ## Lyrics
@@ -162,14 +169,6 @@ Home
 > > Thursday Night Thrashin'!
 
 ---
-  - [Modern Deck](#modern-deck)
-    - [Creatures](#creatures)
-    - [Land](#land)
-    - [Instants](#instants)
-    - [Sorceries](#sorceries)
-    - [Artifacts](#artifacts)
-    - [Planeswalkers](#planeswalkers)
-  - [Math](#math)
 
 ## Modern Deck
 
