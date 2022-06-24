@@ -7,7 +7,6 @@
     - [**World Types**](#world-types)
     - [**Superflat Worlds - Presets**](#superflat-worlds---presets)
     - [**Superflat Worlds - Custom Presets**](#superflat-worlds---custom-presets)
-    - [**Custom Worlds**](#custom-worlds)
     - [**Gamemodes**](#gamemodes)
     - [**World Creation**](#world-creation)
     - [**What Are Blocks?**](#what-are-blocks)
@@ -24,6 +23,7 @@
   - [**Data**](#data)
     - [**What is JSON?**](#what-is-json)
     - [**Advanced JSON**](#advanced-json)
+    - [**Custom Worlds**](#custom-worlds)
 
 tutorials.zephyrsnow.xyz
 
@@ -116,16 +116,6 @@ Todo
 
 ---
 
-### **Custom Worlds**
-
-*Maybe make this its own whole category? I'm not sure how much there is to cover on this topic, but it might be a lot.*
-
-*Future me here: Yeah. A seperate category would probably be good.*
-
-Todo
-
----
-
 ### **Gamemodes**
 
 Todo
@@ -212,3 +202,11 @@ Todo
 ---
 
 ### **Advanced JSON**
+
+Todo
+
+---
+
+### **Custom Worlds**
+
+Todo
