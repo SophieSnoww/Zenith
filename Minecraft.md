@@ -34,8 +34,6 @@ tutorials.zephyrsnow.xyz
 
 ### **World Types**
 
-(See [Biomes](#biomes), [Structures](#structures), [Superflat Worlds](#superflat-worlds))
-
 There are 5 different normal world types in Minecraft: Java Edition, and 1 *hidden* world type, alongside a much more advanced "custom" world type.
 
 > Default
