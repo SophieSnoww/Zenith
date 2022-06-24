@@ -48,15 +48,15 @@ Superflat worlds do have customization options, though. You can use presets, or 
 
 > Amplified
 
-Amplified worlds are what they say - world generation, amplified. massive mountains generate, often reaching the world height limit. Massive cliffs are everywhere, and it's often difficult to get around. This can be very fun if you're looking to challenge yourself, or just looking for an interesting experience, though!
+Amplified worlds are what they say - world generation, amplified. Massive mountains generate, often reaching the world height limit. Huge cliffs are everywhere, and it's often difficult to get around. This can be very fun if you're looking to challenge yourself, or just looking for an interesting experience, though!
 
 > Large Biomes
 
-Large biomes generation is also pretty self-explanatory. It's normal world generation, but with every biome 16 times larger. This makes generated structures much more likely to be found.
+Large biomes generation is normal world generation, but with every biome 16 times larger. This makes generated structures much more likely to be found.
 
 > Single Biome
 
-Again, pretty self explanatory. The world will generate using only one biome, but the structures generated won't change.
+Single-biome worlds will generate using only one biome, but the structures generated won't change.
 
 > Hidden World Type: Debug
 
