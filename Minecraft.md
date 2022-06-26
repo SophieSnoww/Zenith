@@ -12,14 +12,25 @@
     - [**What Are Blocks?**](#what-are-blocks)
     - [**What Are Items?**](#what-are-items)
     - [**What Are Entities?**](#what-are-entities)
+    - [**Crafting**](#crafting)
+  - [**Minecraft In Depth**](#minecraft-in-depth)
+    - [**Status Effects**](#status-effects)
     - [**Blocks In Depth**](#blocks-in-depth)
     - [**Items In Depth**](#items-in-depth)
     - [**Entities In Depth**](#entities-in-depth)
+    - [**Health In Depth**](#health-in-depth)
+    - [**Hunger In Depth**](#hunger-in-depth)
+    - [**Armor In Depth**](#armor-in-depth)
   - [**Generation**](#generation)
     - [**What Are Biomes?**](#what-are-biomes)
-    - [**Biomes**](#biomes)
+    - [**Surface Biomes**](#surface-biomes)
+    - [**Underground Biomes**](#underground-biomes)
+    - [**Nether Biomes**](#nether-biomes)
+    - [**Other Biomes**](#other-biomes)
     - [**Structures**](#structures)
+    - [**Ores**](#ores)
   - [**Blocks**](#blocks)
+    - [**Todo**](#todo)
   - [**Data**](#data)
     - [**What is JSON?**](#what-is-json)
     - [**Advanced JSON**](#advanced-json)
@@ -60,7 +71,7 @@ Single-biome worlds will generate using only one biome. Besides that, all (possi
 
 > Hidden World Type: Debug
 
-The "debug" world type can only be accessed by holding down the ALT key on your keyboard while clicking through the different world types. This world type generates every single block state (See [Blocks in Depth](#blocks-in-depth)) in the game, in a massive grid. The player cannot place or break blocks.
+The "debug" world type can only be accessed by holding down the ALT key on your keyboard while clicking through the different world types. This world type generates every single block state (See [Blocks In Depth](#blocks-in-depth)) in the game, in a massive grid. The player cannot place or break blocks.
 
 > Custom
 
@@ -94,19 +105,21 @@ The snowy kingdom preset generates 1 layer of bedrock, 59 layers of stone, 3 lay
 
 > Bottomless Pit
 
-Todo
+The bottomless pit preset generates nearly identically to the default preset, except the layer of bedrock is replaced with two layers of cobblestone. This means you can easily dig into the void in survival mode.
 
 > Desert
 
-Todo
+The desert preset generates 1 layer of bedrock, 3 layers of stone, 52 layers of sandstone, and 8 layers of sand. Villages, pyramids, strongholds, mineshafts, and dungeons all spawn in this preset.
 
 > Redstone Ready
 
-Todo
+The redstone ready preset generates 1 layer of bedrock, 3 layers of stone, and 116 layers of sandstone. No structures generate. This preset is ideal for, you guessed it, redstone building and testing.
 
 > The Void
 
-Todo
+The void preset generates 1 layer of air - basically, nothing. The player spawns on a small stone platform, surrounded by absolutely nothing. No structures generate.
+
+That's it for the built-in superflat presets! If you're looking to make your own presets, check out my [Custom Presets](#superflat-worlds---custom-presets) video!
 
 ---
 
@@ -117,6 +130,38 @@ Todo
 ---
 
 ### **Gamemodes**
+
+Gamemodes determine what the main gameplay will look like. There are three main gamemodes: Survival, creative, and spectator.
+
+> Survival
+
+In survival mode, the player has a few things on their hotbar - health, hunger, and XP. There are a few extra things that may show up on the hotbar too, these being armor and breath.
+
+>> Health
+
+Normally, the player has 10 hearts as their health bar. This can be increased, through the absorption status effect (See [Status Effects](status-effects)). Each heart is actually 2 points of health, as hearts are split in half. This means that the player actually has 20 points of health total. (See [Health In Depth](#health-in-depth))
+
+>> Hunger
+
+Hunger is also shown with 10 icons, in this case drumsticks, that represent 20 points of hunger. Different actions deplete hunger at different rates, and the hunger status effect will deplete it quickly, at different speeds depending on the level of the status effect. (See [Hunger In Depth](#hunger-in-depth))
+
+>> XP
+
+Todo
+
+>> Armor
+
+Todo
+
+>> Breath
+
+Todo
+
+> Creative
+
+Todo
+
+> Spectator
 
 Todo
 
@@ -146,6 +191,21 @@ Todo
 
 ---
 
+### **Crafting**
+
+Todo
+
+---
+---
+
+## **Minecraft In Depth**
+
+### **Status Effects**
+
+Todo
+
+---
+
 ### **Blocks In Depth**
 
 Todo
@@ -163,6 +223,24 @@ Todo
 Todo
 
 ---
+
+### **Health In Depth**
+
+Todo
+
+---
+
+### **Hunger In Depth**
+
+Todo
+
+---
+
+### **Armor In Depth**
+
+Todo
+
+---
 ---
 
 ## **Generation**
@@ -173,7 +251,25 @@ Todo
 
 ---
 
-### **Biomes**
+### **Surface Biomes**
+
+Todo
+
+---
+
+### **Underground Biomes**
+
+Todo
+
+---
+
+### **Nether Biomes**
+
+Todo
+
+---
+
+### **Other Biomes**
 
 Todo
 
@@ -184,9 +280,17 @@ Todo
 Todo
 
 ---
+
+### **Ores**
+
+Todo
+
+---
 ---
 
 ## **Blocks**
+
+### **Todo**
 
 Todo
 
