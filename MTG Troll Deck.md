@@ -1,6 +1,53 @@
 # MTG Troll Deck
 
-## Infinite Mana
+- [MTG Troll Deck](#mtg-troll-deck)
+  - [Costs](#costs)
+  - [The Strats](#the-strats)
+    - [Ideal](#ideal)
+      - [Turn 1](#turn-1)
+      - [Turn 2](#turn-2)
+      - [Turn 3](#turn-3)
+  - [Infinite Mana (Costs 6-7)](#infinite-mana-costs-6-7)
+    - [Mill Entire Library](#mill-entire-library)
+    - [If Dread Return is in Graveyard](#if-dread-return-is-in-graveyard)
+    - [Get the Angel](#get-the-angel)
+      - [Getting Some Pieces](#getting-some-pieces)
+    - [Mana Duplication Glitch](#mana-duplication-glitch)
+  - [Getting Everything](#getting-everything)
+    - [All Creatures](#all-creatures)
+    - [All Mana](#all-mana)
+    - [All Artifacts](#all-artifacts)
+
+## Costs
+
+| Card               | Cost                   | Use                             |
+| ------------------ | ---------------------- | ------------------------------- |
+| Mana Severance     | 2                      | Infinite mana (exile all lands) |
+| Undercity Informer | 4 (3/1)                | Infinite mana (mill library)    |
+| Balustrade Spy     | 4                      | Infinite mana (mill library)    |
+| Dread Return       | 4 (or sac 3 creatures) | Infinite mana (get the angel)   |
+
+## The Strats
+
+### Ideal
+
+#### Turn 1
+
+- Start with Mana Severance, Undercity Informer, Sol Ring, Swamp, Island
+- Get Swamp & Sol Ring `(C)` out
+
+#### Turn 2
+
+- Play Island
+- Play Undercity Informer `(CCB)`
+
+#### Turn 3
+
+- Play Mana Severance `(CU)`
+- Use Undercity Informer `(C)`
+- Go off
+
+## Infinite Mana (Costs 6-7)
 
 ### Mill Entire Library
 
