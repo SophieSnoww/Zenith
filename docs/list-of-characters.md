@@ -8,25 +8,25 @@ Characters are listed in no particular order.
 
 ## Original Characters
 
-| Name             | Species       | Has Original Art? |
-| ---------------- | ------------- | ----------------- |
-| Zephyr Snow      | Deer/cervine  | Yes, lots         |
-| Sylas Sterling   | Mantled beast | Yes               |
-| Carmen Devereaux | Husky         | Yes, one          |
-| Lilith           | Dragon        | No                |
-| Grace Carter     | Wolf          | No                |
+| Name                                           | Species       | Has Original Art? |
+| ---------------------------------------------- | ------------- | ----------------- |
+| [Zephyr Snow](/docs/characters/zephyr.md)      | Deer/cervine  | Yes, lots         |
+| [Sylas Sterling](/docs/characters/sylas.md)    | Mantled beast | Yes               |
+| [Carmen Devereaux](/docs/characters/carmen.md) | Husky         | Yes, one          |
+| Lilith                                         | Dragon        | No                |
+| Grace Carter                                   | Wolf          | No                |
 
 ## D&D Characters
 
-| Name          | Species    | Campaign      | Has Original Art? |
-| ------------- | ---------- | ------------- | ----------------- |
-| Rose Keres    | Wolf       | Evil          | Yes               |
-| Cambium       | Wolf/Alien | M.A.L.L.      | Yes               |
-| Esper         | Goat       | Ravnica       | No                |
-| Salem Kane    | Avian      | New Hatsen    | No                |
-| Anansi        | Spider     | Bugs in Space | No                |
-| Avi Fireheart | Dragon     | Corlinth      | Yes, one          |
-| Saccharin     | Tiefling   | Corlinth      | No                |
-| Toc           | Hellcat    | Lustova       | No                |
-| Kish          | Raptor     | Lustova       | No                |
-| Aryx          | Kitsune    | Aetriaes      | Yes, one          |
+| Name                                   | Species    | Campaign      | Has Original Art? |
+| -------------------------------------- | ---------- | ------------- | ----------------- |
+| [Rose Keres](/docs/characters/rose.md) | Wolf       | Evil          | Yes               |
+| [Cambium](/docs/characters/cambium.md) | Wolf/Alien | M.A.L.L.      | Yes               |
+| [Esper](/docs/characters/esper.md)     | Goat       | Ravnica       | No                |
+| Salem Kane                             | Avian      | New Hatsen    | No                |
+| [Anansi](/docs/characters/anansi.md)   | Spider     | Bugs in Space | No                |
+| Avi Fireheart                          | Dragon     | Corlinth      | Yes, one          |
+| Saccharin                              | Tiefling   | Corlinth      | No                |
+| Toc                                    | Hellcat    | Lustova       | No                |
+| Kish                                   | Raptor     | Lustova       | No                |
+| Aryx                                   | Kitsune    | Aetriaes      | Yes, one          |
