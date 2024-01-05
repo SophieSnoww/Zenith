@@ -1,4 +1,0 @@
-# Sand
----
-## Material In
-- [[Silicon]]
