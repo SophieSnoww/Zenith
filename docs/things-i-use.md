@@ -24,13 +24,13 @@ This document is basically my own "awesome-x" list. Having all the software and 
 
 ### Navidrome
 
-[Navidrome Website]()
+[Navidrome Website](https://www.navidrome.org/)
 
 Navidrome is the server I run to host my music files. Instead of paying for Spotify premium or whatever, if you're willing to put in some work, set up a Navidrome server and listen to all the music you want for free.
 
 ### yt-dlp
 
-[yt-dlp Website]()
+[yt-dlp Website](https://github.com/yt-dlp/yt-dlp)
 
 Incredibly good command-line tool for downloading video and audio off of not just YouTube, but also most other sites. HIGHLY recommend.
 
