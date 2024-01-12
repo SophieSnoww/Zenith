@@ -12,7 +12,7 @@ The Zenith Collective is a group of artists (musical or otherwise) founded by Ze
 
 ### Zephyr Snow
 
-Zephyr is a red, white, and black deer, and the founder of the collective. They mostly manage things, and are functionally tech support a lot of the time, hosting websites and servers and getting other members' music released. Zephyr doesn't have a singular common aesthetic, but enjoys anything. They're particularly interested in weird or niche art, but musically, they tend to listen to indie and relatively normal genres.
+Zephyr is a red, white, and black deer, and the founder of the collective. They mostly manage things, and are functionally tech support a lot of the time, hosting websites and servers and getting other members' music released. Zephyr doesn't have a singular common aesthetic, but enjoys anything. They're particularly interested in weird or niche art, but musically, they tend to listen to indie and adjacent genres.
 
 ### Sylas Sterling
 
