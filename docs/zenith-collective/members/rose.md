@@ -6,11 +6,11 @@
 - Assassin & bodyguard
 - Cocaine and murder enthusiast
 
-// TODO
+Rose is a blue/gray wolf. She started out working as a bodyguard for the collective, but has gradually turned into a member. She uses drugs relatively heavily, her favorite being a drug called Lumina, which alters vision and gives intense feelings of euphoria. She has a red karambit she named Thanatos that she keeps on her at all times.
 
 ## Aesthetics and Inspiration
 
-// TODO
+Rose makes overdriven, shout-y rap and intense ear-splitting noise music. Much of her art has acid-like aesthetics and blood or drug references.
 
 ### Top Inspo
 
