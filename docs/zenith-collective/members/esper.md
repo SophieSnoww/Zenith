@@ -6,11 +6,11 @@
 - Doesn't remember who she is
 - Ego death enthusiast (?)
 
-// TODO
+Esper is a gray and brown goat. She uses memory-altering magic, and throughout her life has removed or overwritten many peoples memories. Whenever she would take or rewrite memories, she would transfer the persons original memories into her own mind, so that someone could remember what once was real. At this point, she has so many memories that aren't hers that she struggles to parse who she is and what's reality and what isn't.
 
 ## Aesthetics and Inspiration
 
-// TODO
+Esper's art tends to contain rather dark themes, memory loss and loss of identity being main themes. She makes dark ambient music alongside intense, glitchy breakcore, attempting to make sense of her confused and overlapping memories.
 
 ### Top Inspo
 
