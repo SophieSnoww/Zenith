@@ -6,11 +6,11 @@
 - Visions of the future
 - Graffiti enthusiast
 
-Cambium is an alien wolf with lime green accents. They 
+Cambium is an alien wolf with lime green accents. They enjoy cultivating plants and creating art - in both audio and visual mediums. They are never seen without their gas mask.
 
 ## Aesthetics and Inspiration
 
-// TODO
+Aesthetically, Cambium tends to use a solarpunk-dystopia style, overgrown architecture and pristine gardens fallen into ruins and overtaken by the plants once grown there. They make minimal drum and bass with ambient and noise influences.
 
 ### Top Inspo
 
