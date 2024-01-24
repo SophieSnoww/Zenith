@@ -10,7 +10,13 @@ Sylas is a grey/black mantled beast. // TODO
 
 ## Aesthetics and Inspiration
 
- // TODO
+// TODO
+
+### Top Inspo
+
+- [Frums](https://soundcloud.com/frums)
+- [Richard Devine](https://twitter.com/RichardDevine)
+- [qebrus](https://open.spotify.com/artist/1Z2PmjLduWIJxXbk8TlDoK)
 
 ## History
 

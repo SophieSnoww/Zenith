@@ -12,6 +12,12 @@
 
 // TODO
 
+### Top Inspo
+
+- [I Broke My Robot](https://open.spotify.com/artist/3Oz2hdTT5ajQbotVNzceCI)
+- [Ruby My Dear](https://open.spotify.com/artist/2eKpa0oOrUkjz5KbqGYwie)
+- [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9)
+
 ## History
 
 // TODO

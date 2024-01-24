@@ -12,6 +12,13 @@
 
 // TODO
 
+### Top Inspo
+
+- [Grim Salvo](https://open.spotify.com/artist/5UogEGDRYo5Q9bRIMRjuEC)
+- [sewnfkt](https://soundcloud.com/sewnfkt)
+- [Syprexa](https://open.spotify.com/artist/04NjoLMWKNWGJPbn7g5jG0)
+- [1 800 PAIN](https://open.spotify.com/artist/7BT9qietxZuylsjyWGYBUR)
+
 ## History
 
 // TODO
