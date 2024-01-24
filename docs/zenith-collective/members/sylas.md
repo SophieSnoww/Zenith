@@ -10,7 +10,7 @@ Sylas is a grey/black mantled beast. // TODO
 
 ## Aesthetics and Inspiration
 
-// TODO
+Sylas's art focuses mainly on technical creation. He enjoys old, analogue hardware and deprecated software, as well as intentionally corrupting data to produce unique outputs. Much of the music he makes is technical, sample-heavy genre-fusion, and makes heavy use of technology like trackers, modular synthesizers, and EMF recordings.
 
 ### Top Inspo
 
