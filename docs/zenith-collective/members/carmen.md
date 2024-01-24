@@ -10,7 +10,7 @@ Carmen is a grey-blue husky. She spends most of her time travelling, camping whe
 
 ## Aesthetics and Inspiration
 
-Carmen is a softie, she enjoys songs like lo-fi and cozy nature and camping aesthetics like rain on a tent. She enjoys stargazing, and the sounds of nature. // TODO
+Carmen is a softie, she enjoys songs like lo-fi and cozy nature and camping aesthetics like rain on a tent. She enjoys stargazing, and the sounds of nature.
 
 ### Top Inspo
 
