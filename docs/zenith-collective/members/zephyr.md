@@ -10,7 +10,7 @@ Zephyr is a red, white, and black deer. They're the founder of the Zenith Collec
 
 ## Aesthetics and Inspiration
 
-Zephyr themself struggles with finding a specific aesthetic niche for themselves and instead tends to create whatever catches their interest. They sometimes associate with more indie vibes, but have no specific aesthetic.
+Zephyr themself struggles with finding a specific aesthetic niche for themselves and instead tends to create whatever catches their interest. They sometimes associate with more indie vibes, but enjoy everything from lo-fi to rawstyle.
 
 ### Top Inspo
 
