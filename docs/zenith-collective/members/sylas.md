@@ -1,4 +1,4 @@
-# Sylas Sterling
+# Sylas
 
 - Mantled beast
 - Age anywhere from 20s to 200s. Need to decide
@@ -6,7 +6,7 @@
 - Vintage/niche tech nerd
 - Data corruption enthusiast
 
-Sylas is a grey/black mantled beast. // TODO
+Sylas is a grey/black mantled beast. He's very interested in anything niche related to tech, and gets very focused on the minutiae of how things work, so he can mess with them. He's outoging and friendly, and will happily talk your ear off about anything he's interested in. He enjoys technical computing and fiddling with computer hardware to produce interesting results.
 
 ## Aesthetics and Inspiration
 
