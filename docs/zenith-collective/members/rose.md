@@ -1,7 +1,7 @@
 # Rose Keres
 
 - Wolf
-- 24 y/o
+- 32 y/o
 - She/her
 - Assassin & bodyguard
 - Cocaine and murder enthusiast
