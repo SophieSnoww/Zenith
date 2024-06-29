@@ -10,6 +10,14 @@ The Zenith Collective is a group of artists (musical or otherwise) founded by Ze
 
 ## Members
 
+- ZPHR
+- SYLS
+- CRMN
+- ANSI
+- CMBM
+- ESPR
+- ROSE
+
 ### Zephyr Snow
 
 [Zephyr's character page](./members/zephyr.md)

@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "yzhang.markdown-all-in-one",
+    "mathiassoeholm.markdown-link-updater",
+    "davidanson.vscode-markdownlint",
+    "usernamehw.todo-md"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "markdownlint.ignore": [
+    "docs/lists/*"
+  ],
+  "todomd.activatePattern": "**/{todo,someday,todo.archive,work,videos,videos.archive,ideas}.md"
+}
